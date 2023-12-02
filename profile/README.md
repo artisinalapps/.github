@@ -1,8 +1,9 @@
-# POE Innovations
+# Artisanal Apps
 
-We are a SaaS development company focused on providing valuable software tools to professionals and entrepreneurs. 
+A SaaS development company focused on creating valuable software tools for entrprenuers, professionals, and small businesses. 
 
-## Our principles
+## Our core principles
 
-- Customer focused
-- Privacy by design
+- Customer obsessed
+- Private by design
+- Secure by default
