@@ -1,16 +1,16 @@
 # POE Innovations
 
-POE Innovations a boutique SaaS development company focused on creating valuable software tools for professionals, entrepreneurs, and small businesses.
+POE Innovations is a SaaS and custom software development company focused on creating valuable software tools for professionals, entrepreneurs, and small businesses.
 
 ## Our core principles
 
 ### Customer obsessed
 
-We serve our customers with integrity and respect. We strive to always add value for our customers.
+We serve our customers with integrity and respect. We aim to always add value.
 
 ### Private by design
 
-We only save what data is required to serve you. The data we do collect will never be sold.
+We only save what data is required to serve you. The data we do collect will never be sold. 
 
 ### Secure by default
 
